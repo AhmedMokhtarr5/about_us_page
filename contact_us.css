@@ -1,0 +1,93 @@
+
+
+
+.contact_us_img{
+    width: 100%
+}
+
+.contact_us_header{
+
+    position: relative;
+    bottom: 149px;
+    left: 49px;
+    color: white;
+    font-size: 50px;
+    width: 300px;
+}
+.contact_us_form{
+    float: left ;
+    padding-left: 50px;
+
+
+}
+
+ 
+.contact_us_form_textarea{
+
+    position: relative;
+    left: 360px;
+    bottom: 333px;
+}
+
+
+.contact_us_form_submit{
+    width: 230px;
+    height: 30px;
+    border-radius: 25px;
+    position: relative;
+    left: 26px;
+    top: 15px;
+    background-color: red;
+    color: white;
+    border-color: white;
+    font-size: 20px;
+}
+
+
+.contact_us_form_input{
+    height: 35px;
+    width: 300px;
+    border-radius: 25px;
+}
+
+
+.contact_us_form_label{
+    
+    font-size: 25px;
+
+}
+.contact_us_social{
+    float:right;
+
+}
+.contact_us_phone_container{
+    position: relative;
+    font-size: 20px;
+    right: 262px;
+}
+
+
+.contact_us_email_container{
+    position: relative;
+    right: 260px;
+    bottom: 19px;
+    font-size: 19px;
+}
+
+
+.contact_us_phone_img{
+   
+    width: 50px;
+    position: relative;
+    right: 330px;
+    top: 53px;
+}
+
+
+.contact_us_email_img{
+
+    width: 50px;
+    position: relative;
+    right: 329px;
+    top: 32px;
+}
